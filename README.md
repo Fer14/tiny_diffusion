@@ -7,7 +7,7 @@
 ![logo](./forward.png)
 
 
-## Reversed process
+# Reverse process
 
 ![logo](./reverse.png)
 
