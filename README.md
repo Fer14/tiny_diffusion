@@ -1,13 +1,15 @@
 # Difussion Tiny Model
 
-![logo](./logo.png)
+![logo](./logos/logo.png)
 
 # Forward process
 
-![logo](./forward.png)
+![logo](./logos/forward_logo.png)
 
+
+![logo](./logos/output.png)
 
 ## Reversed process
 
-![logo](./reverse.png)
+![logo](./logos/reverse_logo.png)
 
