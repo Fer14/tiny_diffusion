@@ -9,7 +9,8 @@
 
 ![logo](./logos/output.png)
 
-## Reversed process
+
+# Reverse process
 
 ![logo](./logos/reverse_logo.png)
 
