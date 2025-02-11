@@ -46,4 +46,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Push to the branch (git push origin feature/AmazingFeature).
 - Open a Pull Request.
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Fer14]
