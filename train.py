@@ -4,7 +4,7 @@ from torch.utils.data import DataLoader
 from tqdm import tqdm
 
 from dataset import CircleDataset
-from model import TinyUNet, save_model
+from model import NaiveUnet, save_model
 
 
 def train_model(model, dataloader, epochs=5, lr=1e-5):
@@ -41,14 +41,15 @@ def train_model(model, dataloader, epochs=5, lr=1e-5):
 
 def main():
     dataset = CircleDataset(num_samples=50000, image_size=32, T=100)
-    dataloader = DataLoader(dataset, batch_size=4096, shuffle=True)
-    model = TinyUNet()
+    dataloader = DataLoader(dataset, batch_size=256, shuffle=True)
+    model = NaiveUnet(in_channels=1, out_channels=1, n_feat=256)
     try:
-        model = train_model(model, dataloader, epochs=500)
+        model = train_model(model, dataloader, epochs=100)
+
     except Exception as e:
         print(e)
     finally:
-        save_model(model, "model.pth")
+        save_model(model, "model2.pth")
 
 
 if __name__ == "__main__":
