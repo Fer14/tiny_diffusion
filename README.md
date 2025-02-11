@@ -38,6 +38,7 @@ The reverse process learns to denoise the image step-by-step, starting from rand
 
 ## Future Work
 - [ ]  Add DDIM
+- [ ]  Add Text Conditioning
 
 ## Contributing
 
