@@ -36,6 +36,9 @@ The reverse process learns to denoise the image step-by-step, starting from rand
 
 ![logo](./logos/output2.png)
 
+## Future Work
+- [ ]  Add DDIM
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
