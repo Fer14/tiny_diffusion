@@ -1,4 +1,4 @@
-# Difussion Tiny Model
+# Difussion Tiny Model 🤏
 
 ![logo](./logos/logo.png)
 
