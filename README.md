@@ -43,10 +43,10 @@ The reverse process learns to denoise the image step-by-step, starting from rand
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-- Fork the repository.
-- Create your feature branch (git checkout -b feature/AmazingFeature).
-- Commit your changes (git commit -m 'Add some AmazingFeature').
-- Push to the branch (git push origin feature/AmazingFeature).
-- Open a Pull Request.
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 Made with ❤️ by [Fer14]
